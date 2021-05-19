@@ -13,9 +13,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class LoginSuccessStepDefinitions {
 
-    WebDriver driver;
+    private WebDriver driver;
     private final String urlBase = "https://www.saucedemo.com/";
-    Manager manager = new Manager(driver);
+    private Manager manager = new Manager(driver);
     private static final Logger LOGGER = LogManager.getLogger(LoginSuccessStepDefinitions.class);
 
     @Given(": I'm on the page that allows me to start the session")

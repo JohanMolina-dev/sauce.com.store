@@ -1,52 +1,18 @@
-2021-05-18T15:59:40,072 [main] INFO  (LoginSuccessStepDefinitions.java:30) - Url activa
-2021-05-18T15:59:40,884 [main] INFO  (LoginSuccessStepDefinitions.java:39) - Logica
-2021-05-18T15:59:41,797 [main] INFO  (LoginSuccessStepDefinitions.java:49) - Url Cerrada
-2021-05-18T18:07:56,007 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T18:09:44,750 [main] INFO  (LoginSuccessStepDefinitions.java:28) - Url activa
-2021-05-18T18:10:33,461 [main] INFO  (LoginSuccessStepDefinitions.java:30) - Url activa
-2021-05-18T18:10:34,328 [main] INFO  (LoginSuccessStepDefinitions.java:39) - Logica
-2021-05-18T18:10:35,251 [main] INFO  (LoginSuccessStepDefinitions.java:48) - Url Cerrada
-2021-05-18T18:11:48,252 [main] INFO  (LoginSuccessStepDefinitions.java:25) - Url activa
-2021-05-18T18:11:49,137 [main] INFO  (LoginSuccessStepDefinitions.java:33) - Logica
-2021-05-18T18:11:50,052 [main] INFO  (LoginSuccessStepDefinitions.java:42) - Url Cerrada
-2021-05-18T18:19:03,267 [main] INFO  (LoginSuccessStepDefinitions.java:25) - Url activa
-2021-05-18T18:20:33,140 [main] INFO  (LoginSuccessStepDefinitions.java:25) - Url activa
-2021-05-18T18:21:18,139 [main] INFO  (LoginSuccessStepDefinitions.java:25) - Url activa
-2021-05-18T18:21:19,176 [main] INFO  (LoginSuccessStepDefinitions.java:33) - Logica
-2021-05-18T18:21:20,203 [main] INFO  (LoginSuccessStepDefinitions.java:42) - Url Cerrada
-2021-05-18T19:43:36,040 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:43:37,064 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
-2021-05-18T19:43:38,514 [main] INFO  (LoginSuccessStepDefinitions.java:45) - Url Cerrada
-2021-05-18T19:43:43,360 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:43:44,144 [main] INFO  (LoginSuccessStepDefinitions.java:52) - Logica usuario bloqueado
-2021-05-18T19:43:45,214 [main] INFO  (LoginSuccessStepDefinitions.java:62) - Url Cerrada
-2021-05-18T19:43:49,874 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:43:50,922 [main] INFO  (LoginSuccessStepDefinitions.java:69) - Logica usuario bloqueado
-2021-05-18T19:43:52,018 [main] INFO  (LoginSuccessStepDefinitions.java:75) - Url Cerrada
-2021-05-18T19:49:18,198 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:49:19,581 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
-2021-05-18T19:49:21,059 [main] INFO  (LoginSuccessStepDefinitions.java:45) - Url Cerrada
-2021-05-18T19:49:25,498 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:49:26,414 [main] INFO  (LoginSuccessStepDefinitions.java:52) - Logica usuario bloqueado
-2021-05-18T19:49:27,548 [main] INFO  (LoginSuccessStepDefinitions.java:62) - Url Cerrada
-2021-05-18T19:49:32,357 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:49:33,415 [main] INFO  (LoginSuccessStepDefinitions.java:69) - Logica usuario bloqueado
-2021-05-18T19:49:35,341 [main] INFO  (LoginSuccessStepDefinitions.java:77) - Url Cerrada
-2021-05-18T19:50:35,696 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:50:36,703 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
-2021-05-18T19:50:37,697 [main] INFO  (LoginSuccessStepDefinitions.java:45) - Url Cerrada
-2021-05-18T19:50:41,487 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:50:42,274 [main] INFO  (LoginSuccessStepDefinitions.java:52) - Logica usuario bloqueado
-2021-05-18T19:50:43,339 [main] INFO  (LoginSuccessStepDefinitions.java:62) - Url Cerrada
-2021-05-18T19:50:46,865 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T19:50:48,048 [main] INFO  (LoginSuccessStepDefinitions.java:69) - Logica usuario bloqueado
-2021-05-18T19:50:49,837 [main] INFO  (LoginSuccessStepDefinitions.java:77) - Url Cerrada
-2021-05-18T20:29:38,568 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T20:29:39,336 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
-2021-05-18T20:29:40,369 [main] INFO  (LoginSuccessStepDefinitions.java:45) - Url Cerrada
-2021-05-18T20:29:44,258 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T20:29:45,069 [main] INFO  (LoginSuccessStepDefinitions.java:52) - Logica usuario bloqueado
-2021-05-18T20:29:46,145 [main] INFO  (LoginSuccessStepDefinitions.java:62) - Url Cerrada
-2021-05-18T20:29:49,780 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-18T20:29:50,890 [main] INFO  (LoginSuccessStepDefinitions.java:69) - Logica usuario bloqueado
-2021-05-18T20:29:52,960 [main] INFO  (LoginSuccessStepDefinitions.java:77) - Url Cerrada
+2021-05-19T11:20:38,935 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
+2021-05-19T11:20:40,216 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
+2021-05-19T11:20:41,666 [main] INFO  (LoginSuccessStepDefinitions.java:45) - Url Cerrada
+2021-05-19T11:20:47,214 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
+2021-05-19T11:20:48,211 [main] INFO  (LoginSuccessStepDefinitions.java:52) - Logica usuario bloqueado
+2021-05-19T11:20:49,432 [main] INFO  (LoginSuccessStepDefinitions.java:62) - Url Cerrada
+2021-05-19T11:20:53,343 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
+2021-05-19T11:20:54,249 [main] INFO  (LoginSuccessStepDefinitions.java:69) - Logica usuario bloqueado
+2021-05-19T11:20:56,217 [main] INFO  (LoginSuccessStepDefinitions.java:77) - Url Cerrada
+2021-05-19T11:28:05,159 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
+2021-05-19T11:28:06,373 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
+2021-05-19T11:28:07,647 [main] INFO  (LoginSuccessStepDefinitions.java:45) - Url Cerrada
+2021-05-19T11:28:12,976 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
+2021-05-19T11:28:13,906 [main] INFO  (LoginSuccessStepDefinitions.java:52) - Logica usuario bloqueado
+2021-05-19T11:28:14,949 [main] INFO  (LoginSuccessStepDefinitions.java:62) - Url Cerrada
+2021-05-19T11:28:19,970 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
+2021-05-19T11:28:21,080 [main] INFO  (LoginSuccessStepDefinitions.java:69) - Logica usuario bloqueado
+2021-05-19T11:28:22,929 [main] INFO  (LoginSuccessStepDefinitions.java:77) - Url Cerrada
