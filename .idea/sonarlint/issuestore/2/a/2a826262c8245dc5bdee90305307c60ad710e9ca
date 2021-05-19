@@ -1,0 +1,24 @@
+
+n
+java:S1192-"LDefine a constant instead of duplicating this literal "Url Cerrada" 3 times.(®ù‰‡ıÿÿÿÿ8Û»Ë˜/
+{
+java:S1192""YDefine a constant instead of duplicating this literal "Logica usuario bloqueado" 3 times.(èûÂ¸üÿÿÿÿ8¹É˜/
+>
+java:S1170"!Make this final field static too.(²®óÇ8‰ÆÍ˜/
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU
+J
+java:S6212 "/Declare this local variable with "var" instead.(›ç ôùÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ºÙ„½
+J
+java:S6212)"/Declare this local variable with "var" instead.(›ç ôùÿÿÿÿ
+J
+java:S62122"/Declare this local variable with "var" instead.(›ç ôùÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ºÙ„½
+J
+java:S6212:"/Declare this local variable with "var" instead.(›ç ôùÿÿÿÿ
+Q
+java:S6212C"/Declare this local variable with "var" instead.(›ç ôùÿÿÿÿ8÷¹É˜/
+Q
+java:S6212J"/Declare this local variable with "var" instead.(›ç ôùÿÿÿÿ8ÅÎâ˜/
+M
+java:S5960*"+Remove this assertion from production code.(ËÀåóûÿÿÿÿ8±¼Ë˜/

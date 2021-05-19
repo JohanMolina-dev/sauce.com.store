@@ -1,0 +1,8 @@
+com/saucedemo/manager_conection/Manager.java
+ com.saucedemo.manager_conection.Manager
+com/saucedemo/pages/LoginPage.java
+ com.saucedemo.pages.LoginPage
+com/saucedemo/step_definitions/LoginSuccessStepDefinitions.java
+ com.saucedemo.step_definitions.LoginSuccessStepDefinitions
+com/saucedemo/controller/LoginController.java
+ com.saucedemo.controller.LoginController
