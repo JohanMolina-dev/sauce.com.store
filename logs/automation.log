@@ -1,118 +1,47 @@
-2021-05-19T11:20:38,935 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T11:20:40,216 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
-2021-05-19T11:20:41,666 [main] INFO  (LoginSuccessStepDefinitions.java:45) - Url Cerrada
-2021-05-19T11:20:47,214 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T11:20:48,211 [main] INFO  (LoginSuccessStepDefinitions.java:52) - Logica usuario bloqueado
-2021-05-19T11:20:49,432 [main] INFO  (LoginSuccessStepDefinitions.java:62) - Url Cerrada
-2021-05-19T11:20:53,343 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T11:20:54,249 [main] INFO  (LoginSuccessStepDefinitions.java:69) - Logica usuario bloqueado
-2021-05-19T11:20:56,217 [main] INFO  (LoginSuccessStepDefinitions.java:77) - Url Cerrada
-2021-05-19T11:28:05,159 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T11:28:06,373 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
-2021-05-19T11:28:07,647 [main] INFO  (LoginSuccessStepDefinitions.java:45) - Url Cerrada
-2021-05-19T11:28:12,976 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T11:28:13,906 [main] INFO  (LoginSuccessStepDefinitions.java:52) - Logica usuario bloqueado
-2021-05-19T11:28:14,949 [main] INFO  (LoginSuccessStepDefinitions.java:62) - Url Cerrada
-2021-05-19T11:28:19,970 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T11:28:21,080 [main] INFO  (LoginSuccessStepDefinitions.java:69) - Logica usuario bloqueado
-2021-05-19T11:28:22,929 [main] INFO  (LoginSuccessStepDefinitions.java:77) - Url Cerrada
-2021-05-19T14:14:33,016 [main] INFO  (CartAppendStep.java:28) - Url activa
-2021-05-19T14:14:38,394 [main] INFO  (CartAppendStep.java:28) - Url activa
-2021-05-19T14:14:42,554 [main] INFO  (CartAppendStep.java:28) - Url activa
-2021-05-19T14:18:58,097 [main] INFO  (CartAppendStep.java:28) - Url activa
-2021-05-19T14:19:03,683 [main] INFO  (CartAppendStep.java:28) - Url activa
-2021-05-19T14:19:08,852 [main] INFO  (CartAppendStep.java:28) - Url activa
-2021-05-19T14:23:37,313 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T14:23:43,055 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T14:23:48,085 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T14:42:04,111 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T14:42:08,466 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T14:42:12,991 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T14:57:49,576 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T14:57:53,858 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T14:57:58,440 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T15:59:34,120 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T15:59:39,435 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T15:59:44,256 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T15:59:51,743 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T15:59:52,125 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
-2021-05-19T15:59:52,876 [main] INFO  (LoginSuccessStepDefinitions.java:44) - Url Cerrada
-2021-05-19T15:59:56,776 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T15:59:57,126 [main] INFO  (LoginSuccessStepDefinitions.java:51) - Logica usuario bloqueado
-2021-05-19T15:59:57,905 [main] INFO  (LoginSuccessStepDefinitions.java:61) - Url Cerrada
-2021-05-19T16:00:03,091 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T16:00:03,522 [main] INFO  (LoginSuccessStepDefinitions.java:68) - Logica usuario bloqueado
-2021-05-19T16:00:04,499 [main] INFO  (LoginSuccessStepDefinitions.java:76) - Url Cerrada
-2021-05-19T21:09:01,614 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T21:09:07,755 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T21:09:13,134 [main] INFO  (CartAppendStep.java:27) - Url activa
-2021-05-19T21:09:17,850 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T21:09:18,544 [main] INFO  (LoginSuccessStepDefinitions.java:34) - Logica usuario bloqueado
-2021-05-19T21:09:19,588 [main] INFO  (LoginSuccessStepDefinitions.java:44) - Url Cerrada
-2021-05-19T21:09:22,341 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T21:09:22,783 [main] INFO  (LoginSuccessStepDefinitions.java:51) - Logica usuario bloqueado
-2021-05-19T21:09:23,583 [main] INFO  (LoginSuccessStepDefinitions.java:61) - Url Cerrada
-2021-05-19T21:09:26,546 [main] INFO  (LoginSuccessStepDefinitions.java:27) - Url activa
-2021-05-19T21:09:27,379 [main] INFO  (LoginSuccessStepDefinitions.java:68) - Logica usuario bloqueado
-2021-05-19T21:09:28,914 [main] INFO  (LoginSuccessStepDefinitions.java:76) - Url Cerrada
-2021-05-19T21:56:24,163 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T21:56:28,728 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T21:56:33,640 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T21:56:35,603 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-19T21:56:38,330 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T21:56:39,871 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-19T21:56:42,510 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T21:56:43,893 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-19T21:56:46,395 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T21:56:48,278 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-19T21:57:48,944 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T21:57:57,122 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T21:58:06,992 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T21:59:35,408 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T21:59:43,230 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T21:59:51,954 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:01:05,532 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:01:10,107 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:01:14,970 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:01:16,861 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-19T22:01:52,669 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:01:59,354 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:02:05,849 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:10:04,145 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:10:10,684 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:10:17,580 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:10:52,399 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:10:57,346 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:11:02,815 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:11:05,312 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-19T22:11:08,462 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:11:09,679 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:11:12,601 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:11:14,092 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:11:16,690 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:11:18,586 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:12:18,545 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:12:25,698 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:12:32,573 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:19:00,058 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:19:02,035 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:19:07,209 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:19:09,049 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:19:13,722 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:19:15,985 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:20:09,711 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:20:14,673 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:20:19,609 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:20:21,581 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-19T22:20:26,718 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:20:28,335 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:20:33,589 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:20:35,153 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:20:40,278 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-19T22:20:42,527 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-19T22:37:31,262 [main] INFO  (BuyItemsStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:37:33,638 [main] INFO  (BuyItemsStep.java:38) - browser closed, driver removed BuyItems class
-2021-05-19T22:37:36,458 [main] INFO  (BuyItemsStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:37:38,612 [main] INFO  (BuyItemsStep.java:48) - browser closed, driver removed BuyItems class
-2021-05-19T22:37:41,212 [main] INFO  (BuyItemsStep.java:23) - Active url CartAppendStep class
-2021-05-19T22:37:43,368 [main] INFO  (BuyItemsStep.java:59) - browser closed, driver removed BuyItems class
+2021-05-20T00:11:02,420 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:11:07,230 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:11:12,148 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:11:14,002 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
+2021-05-20T00:11:16,722 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:11:19,255 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
+2021-05-20T00:11:21,881 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:11:34,596 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
+2021-05-20T00:11:37,313 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:11:44,587 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:11:46,176 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
+2021-05-20T00:11:50,908 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:11:52,955 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
+2021-05-20T00:11:58,310 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:12:00,428 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
+2021-05-20T00:16:50,137 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:16:54,720 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:16:59,623 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:17:01,707 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
+2021-05-20T00:17:04,428 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:17:07,131 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
+2021-05-20T00:17:09,822 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:17:22,734 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
+2021-05-20T00:17:25,548 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:17:28,297 [main] INFO  (BuyItemsStep.java:89) - browser closed, driver removed BuyItems class
+2021-05-20T00:17:33,405 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:17:35,005 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
+2021-05-20T00:17:40,170 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:17:42,015 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
+2021-05-20T00:17:47,179 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:17:49,460 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
+2021-05-20T00:18:08,925 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:18:13,727 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:18:18,623 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
+2021-05-20T00:18:21,300 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
+2021-05-20T00:18:23,952 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:18:26,595 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
+2021-05-20T00:18:29,390 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:18:42,166 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
+2021-05-20T00:18:44,624 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
+2021-05-20T00:18:47,315 [main] INFO  (BuyItemsStep.java:89) - browser closed, driver removed BuyItems class
+2021-05-20T00:18:52,458 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:18:54,074 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
+2021-05-20T00:18:59,147 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:19:01,008 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
+2021-05-20T00:19:06,136 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
+2021-05-20T00:19:08,343 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
