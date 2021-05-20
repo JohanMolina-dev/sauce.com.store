@@ -3,6 +3,8 @@ package com.saucedemo.controller;
 import com.saucedemo.pages.LoginPage;
 import org.openqa.selenium.WebDriver;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 public class LoginController {
     WebDriver driver;
 
@@ -38,5 +40,10 @@ public class LoginController {
         loginPage.clickBurgerMenu();
         loginPage.clickLogout();
     }
+    public void assertAlerts(String message){
+        assertEquals(message,alert());
+    }
+
+
 
 }

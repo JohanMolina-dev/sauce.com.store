@@ -11,16 +11,16 @@ Feature: Add products to cart
     #Autor: Johan Sebastián Molina
   @systemCart
   Scenario: The shopping cart counter must be modified when I add an item
-    When I add 2 items that I want to buy
-    Then the shopping cart counter is 2
+    When I add two items that I want to buy
+    Then the shopping cart counter is two
 
 
     #Test ID:005
     #Autor: Johan Sebastián Molina
   @systemCart
   Scenario: I add items to the shopping cart and remove some
-    When I add 6 items to the shopping cart and remove one
-    Then The shopping cart counter should be 5 and only 5 items should appear inside it
+    When I add six items to the shopping cart and remove one
+    Then The shopping cart counter should be five and only five items should appear inside it
 
     #Test ID:006
     #Autor: Johan Sebastián Molina

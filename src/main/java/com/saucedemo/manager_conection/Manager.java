@@ -24,7 +24,6 @@ public class Manager {
         }
     }
     public void teardown(){
-        driver.close();
         driver.quit();
     }
 }
