@@ -8,7 +8,6 @@ import org.openqa.selenium.support.PageFactory;
 import java.util.concurrent.TimeUnit;
 
 public class LoginPage {
-    private WebDriver driver;
     @FindBy(id = "user-name")
     WebElement fieldUserName;
     @FindBy(id="password")
@@ -23,7 +22,6 @@ public class LoginPage {
     WebElement logout;
 
     public LoginPage(WebDriver driver) {
-        this.driver = driver;
         PageFactory.initElements(driver,this);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }

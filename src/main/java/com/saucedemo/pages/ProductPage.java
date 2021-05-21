@@ -8,7 +8,6 @@ import org.openqa.selenium.support.PageFactory;
 import java.util.concurrent.TimeUnit;
 
 public class ProductPage {
-    private WebDriver driver;
     //Btn add item
     @FindBy(id = "add-to-cart-sauce-labs-backpack")
     WebElement btnBackpack;
@@ -45,7 +44,6 @@ public class ProductPage {
     WebElement linkSauceLabsBikeLight;
 
     public ProductPage(WebDriver driver) {
-        this.driver = driver;
         PageFactory.initElements(driver,this);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }

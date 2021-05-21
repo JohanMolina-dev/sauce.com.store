@@ -10,11 +10,13 @@ import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
+import screenshot.TakeScreenShotBuyItems;
 
 public class BuyItemsStep {
     private WebDriver driver;
     private final Manager manager = new Manager(driver);
-    private static final Logger LOGGER = LogManager.getLogger(CartAppendStep .class);
+    private static final Logger LOGGER = LogManager.getLogger(BuyItemsStep .class);
+
     @Given(": I'm on the products page and I have my products added to the shopping cart")
     public void i_m_on_the_products_page_and_i_have_my_products_added_to_the_shopping_cart() {
 
@@ -37,16 +39,22 @@ public class BuyItemsStep {
 
     @When("check out my products, I enter my first and last name without the zip code")
     public void check_out_my_products_i_enter_my_first_and_last_name_without_the_zip_code() {
-        CheckoutController checkoutController = new CheckoutController(driver);
+        var checkoutController = new CheckoutController(driver);
+        var takeScreenshot = new TakeScreenShotBuyItems(driver);
+        takeScreenshot.takeScreenshotBuy();
         checkoutController.sendInputFieldWithOutZipCode();
+        takeScreenshot.takeScreenshotBuy();
     }
 
     @Then("I should see error message")
     public void i_should_see_error_message() {
 
         try{
-            CheckoutController checkoutController = new CheckoutController(driver);
+            var takeScreenshot = new TakeScreenShotBuyItems(driver);
+            var checkoutController = new CheckoutController(driver);
+            takeScreenshot.takeScreenshotBuy();
             checkoutController.checkAlertError();
+            takeScreenshot.takeScreenshotBuy();
             manager.teardown();
             LOGGER.info("browser closed, driver removed BuyItems class");
         }catch(Exception e){
@@ -57,13 +65,17 @@ public class BuyItemsStep {
 
     @When("check out my products, I enter my first and last name and I entered a wrong zip code, nonexistent")
     public void check_out_my_products_i_enter_my_first_and_last_name_and_i_entered_a_wrong_zip_code_nonexistent() {
-        CheckoutController checkoutController = new CheckoutController(driver);
+        var checkoutController = new CheckoutController(driver);
+        var takeScreenshot = new TakeScreenShotBuyItems(driver);
+        takeScreenshot.takeScreenshotBuy();
         checkoutController.sendInputFieldWrongOutZipCode();
     }
     @Then("I should see error message zip code")
     public void i_should_see_error_message_zip_code() {
         try {
-            CheckoutController checkoutController = new CheckoutController(driver);
+            var takeScreenshot = new TakeScreenShotBuyItems(driver);
+            var checkoutController = new CheckoutController(driver);
+            takeScreenshot.takeScreenshotBuy();
             checkoutController.checkAlertError();
             manager.teardown();
             LOGGER.info("browser closed, driver removed BuyItems class");
@@ -76,15 +88,21 @@ public class BuyItemsStep {
 
     @When("check out my products, I enter my first and last name and I entered a correct zip code")
     public void check_out_my_products_i_enter_my_first_and_last_name_and_i_entered_a_correct_zip_code() {
-        CheckoutController checkoutController = new CheckoutController(driver);
+        var takeScreenshot = new TakeScreenShotBuyItems(driver);
+        var checkoutController = new CheckoutController(driver);
+        takeScreenshot.takeScreenshotBuy();
         checkoutController.submitMyCorrectInformation();
+        takeScreenshot.takeScreenshotBuy();
     }
 
     @Then("I should see the total of my purchase plus taxes and should be able to finish the purchase")
     public void i_should_see_the_total_of_my_purchase_plus_taxes_and_should_be_able_to_finish_the_purchase() {
         try {
-            CheckoutController checkoutController = new CheckoutController(driver);
+            var takeScreenshot = new TakeScreenShotBuyItems(driver);
+            var checkoutController = new CheckoutController(driver);
+            takeScreenshot.takeScreenshotBuy();
             checkoutController.checkTransaction();
+            takeScreenshot.takeScreenshotBuy();
             manager.teardown();
             LOGGER.info("browser closed, driver removed BuyItems class");
         }catch (Exception e){

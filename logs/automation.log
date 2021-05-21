@@ -1,130 +1,114 @@
-2021-05-20T00:11:02,420 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:11:07,230 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:11:12,148 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:11:14,002 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-20T00:11:16,722 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:11:19,255 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T00:11:21,881 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:11:34,596 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T00:11:37,313 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:11:44,587 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:11:46,176 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-20T00:11:50,908 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:11:52,955 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-20T00:11:58,310 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:12:00,428 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-20T00:16:50,137 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:16:54,720 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:16:59,623 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:17:01,707 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-20T00:17:04,428 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:17:07,131 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T00:17:09,822 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:17:22,734 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T00:17:25,548 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:17:28,297 [main] INFO  (BuyItemsStep.java:89) - browser closed, driver removed BuyItems class
-2021-05-20T00:17:33,405 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:17:35,005 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-20T00:17:40,170 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:17:42,015 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-20T00:17:47,179 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:17:49,460 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-20T00:18:08,925 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:18:13,727 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:18:18,623 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T00:18:21,300 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-20T00:18:23,952 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:18:26,595 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T00:18:29,390 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:18:42,166 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T00:18:44,624 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T00:18:47,315 [main] INFO  (BuyItemsStep.java:89) - browser closed, driver removed BuyItems class
-2021-05-20T00:18:52,458 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:18:54,074 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-20T00:18:59,147 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:19:01,008 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-20T00:19:06,136 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T00:19:08,343 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:02:30,555 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:02:35,918 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:02:40,697 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:02:42,294 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-20T23:02:45,171 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:02:47,513 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:02:50,561 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:03:03,184 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:03:06,306 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:03:08,788 [main] INFO  (BuyItemsStep.java:89) - browser closed, driver removed BuyItems class
-2021-05-20T23:03:14,881 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:03:17,118 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:03:22,397 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:03:24,185 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:03:29,446 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:03:31,594 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:07:43,319 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:07:47,857 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:07:53,161 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:07:54,743 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-20T23:07:57,787 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:08:00,219 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:08:03,613 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:08:16,103 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:08:19,140 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:08:28,388 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:08:30,212 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:08:35,702 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:08:37,166 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:08:42,542 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:08:44,432 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:11:37,743 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:11:42,473 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:11:47,667 [main] INFO  (CartAppendStep.java:23) - Active url CartAppendStep class
-2021-05-20T23:11:49,359 [main] INFO  (CartAppendStep.java:65) - browser closed, driver removed CartAppend class
-2021-05-20T23:11:52,575 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:11:54,913 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:11:58,124 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:12:10,570 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:12:13,538 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:12:22,678 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:12:24,130 [main] INFO  (LoginSuccessStepDefinitions.java:37) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:12:31,039 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:12:32,550 [main] INFO  (LoginSuccessStepDefinitions.java:51) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:12:38,801 [main] INFO  (LoginSuccessStepDefinitions.java:23) - Active url LoginSuccess class
-2021-05-20T23:12:40,772 [main] INFO  (LoginSuccessStepDefinitions.java:65) - browser closed, driver removed LoginSuccess class
-2021-05-20T23:13:33,881 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:13:36,497 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:13:41,957 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:13:54,594 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:13:57,781 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:16:18,940 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:16:21,550 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:16:24,760 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:16:37,217 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:16:40,194 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:19:37,586 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:19:40,463 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:19:43,351 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:19:49,863 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:20:00,926 [main] WARN  (BuyItemsStep.java:33) - Failed to start BuyItemsStep
-2021-05-20T23:22:39,397 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:22:41,763 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:22:44,810 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:22:57,090 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:23:00,387 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:23:03,761 [main] INFO  (BuyItemsStep.java:89) - browser closed, driver removed BuyItems class
-2021-05-20T23:25:11,672 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:25:14,253 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:25:17,101 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:25:29,525 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:25:33,875 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:26:14,569 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:26:16,958 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:26:20,684 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:26:33,106 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:26:36,561 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:27:24,251 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:27:26,684 [main] INFO  (BuyItemsStep.java:51) - browser closed, driver removed BuyItems class
-2021-05-20T23:27:29,848 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:27:42,372 [main] INFO  (BuyItemsStep.java:73) - browser closed, driver removed BuyItems class,The result is not what was expected 
-2021-05-20T23:27:45,271 [main] INFO  (BuyItemsStep.java:26) - Active url CartAppendStep class
-2021-05-20T23:27:47,945 [main] INFO  (BuyItemsStep.java:89) - browser closed, driver removed BuyItems class
+2021-05-21T12:51:09,067 [main] INFO  (CartAppendStep.java:24) - Active url CartAppendStep class
+2021-05-21T12:51:11,970 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot6911486168528143033.png
+2021-05-21T12:51:12,411 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot10982010614858612829.png
+2021-05-21T12:51:12,848 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot11240323516489014273.png
+2021-05-21T12:51:18,774 [main] INFO  (CartAppendStep.java:24) - Active url CartAppendStep class
+2021-05-21T12:51:22,454 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot8417591004349090070.png
+2021-05-21T12:51:22,966 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot5578470181300088233.png
+2021-05-21T12:51:28,434 [main] INFO  (CartAppendStep.java:24) - Active url CartAppendStep class
+2021-05-21T12:51:30,684 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot7209102514950060819.png
+2021-05-21T12:51:31,217 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot16675295960458030344.png
+2021-05-21T12:51:32,230 [main] INFO  (CartAppendStep.java:79) - browser closed, driver removed CartAppend class
+2021-05-21T12:51:36,225 [main] INFO  (BuyItemsStep.java:28) - Active url CartAppendStep class
+2021-05-21T12:51:39,025 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot4014078401814430237.png
+2021-05-21T12:51:40,178 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot17357521517376884112.png
+2021-05-21T12:51:40,402 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot9478619575079752043.png
+2021-05-21T12:51:40,673 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot7142324657027413162.png
+2021-05-21T12:51:41,785 [main] INFO  (BuyItemsStep.java:59) - browser closed, driver removed BuyItems class
+2021-05-21T12:51:46,023 [main] INFO  (BuyItemsStep.java:28) - Active url CartAppendStep class
+2021-05-21T12:51:49,234 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot6131887324743294478.png
+2021-05-21T12:51:50,407 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot1733909049772942316.png
+2021-05-21T12:52:01,474 [main] INFO  (BuyItemsStep.java:85) - browser closed, driver removed BuyItems class,The result is not what was expected 
+2021-05-21T12:52:05,495 [main] INFO  (BuyItemsStep.java:28) - Active url CartAppendStep class
+2021-05-21T12:52:09,544 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot8004160209556792160.png
+2021-05-21T12:52:11,074 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot16066575423212039003.png
+2021-05-21T12:52:11,282 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot10947902296993880370.png
+2021-05-21T12:52:11,767 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot13939827338533363910.png
+2021-05-21T12:52:12,734 [main] INFO  (BuyItemsStep.java:107) - browser closed, driver removed BuyItems class
+2021-05-21T12:52:20,589 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T12:52:21,571 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot5461238510237738685.png
+2021-05-21T12:52:21,770 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot1785280428914477067.png
+2021-05-21T12:52:23,773 [main] INFO  (LoginSuccessStepDefinitions.java:42) - browser closed, driver removed LoginSuccess class
+2021-05-21T12:52:32,309 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T12:52:33,279 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot7634774185110125558.png
+2021-05-21T12:52:33,475 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot15012284833540842375.png
+2021-05-21T12:52:34,739 [main] INFO  (LoginSuccessStepDefinitions.java:60) - browser closed, driver removed LoginSuccess class
+2021-05-21T12:52:42,496 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T12:52:44,256 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot7855647139945295835.png
+2021-05-21T12:52:45,033 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot2711162274153922530.png
+2021-05-21T12:52:47,284 [main] INFO  (LoginSuccessStepDefinitions.java:78) - browser closed, driver removed LoginSuccess class
+2021-05-21T12:55:41,976 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T12:55:43,858 [main] INFO  (TakeScreenshot.java:32) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot12419411834917925178.png
+2021-05-21T12:55:44,127 [main] INFO  (TakeScreenshot.java:32) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot4717831122189111634.png
+2021-05-21T12:55:46,377 [main] INFO  (LoginSuccessStepDefinitions.java:42) - browser closed, driver removed LoginSuccess class
+2021-05-21T12:55:54,352 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T12:55:55,817 [main] INFO  (TakeScreenshot.java:32) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot17756034866259820328.png
+2021-05-21T12:55:56,175 [main] INFO  (TakeScreenshot.java:32) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot15040339659260944046.png
+2021-05-21T12:55:57,765 [main] INFO  (LoginSuccessStepDefinitions.java:60) - browser closed, driver removed LoginSuccess class
+2021-05-21T12:56:05,605 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T12:56:07,138 [main] INFO  (TakeScreenshot.java:32) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot7598624747416088797.png
+2021-05-21T12:56:07,872 [main] INFO  (TakeScreenshot.java:32) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot11826864567185606413.png
+2021-05-21T12:56:09,904 [main] INFO  (LoginSuccessStepDefinitions.java:78) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:00:26,954 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:00:29,577 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot6574959557393936693.png
+2021-05-21T13:00:30,266 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot617927189764794669.png
+2021-05-21T13:00:32,185 [main] INFO  (LoginSuccessStepDefinitions.java:42) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:00:40,619 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:00:41,636 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot7673716816873164262.png
+2021-05-21T13:00:41,932 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot9710931165379612904.png
+2021-05-21T13:00:43,642 [main] INFO  (LoginSuccessStepDefinitions.java:60) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:00:51,463 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:00:53,263 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot8195511195642524814.png
+2021-05-21T13:00:54,010 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot8338221963420897023.png
+2021-05-21T13:00:56,293 [main] INFO  (LoginSuccessStepDefinitions.java:78) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:01:52,753 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:01:54,716 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot586292260631862241.png
+2021-05-21T13:01:55,009 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot2847551912377793676.png
+2021-05-21T13:01:57,212 [main] INFO  (LoginSuccessStepDefinitions.java:42) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:02:04,892 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:02:06,092 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot17502805360857043938.png
+2021-05-21T13:02:06,347 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot11415592072376175977.png
+2021-05-21T13:02:08,754 [main] INFO  (LoginSuccessStepDefinitions.java:60) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:02:16,935 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:02:18,669 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot14253710401153890908.png
+2021-05-21T13:02:19,415 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot1458187709616476241.png
+2021-05-21T13:02:22,065 [main] INFO  (LoginSuccessStepDefinitions.java:78) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:04:39,607 [main] INFO  (CartAppendStep.java:24) - Active url CartAppendStep class
+2021-05-21T13:04:42,617 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot8867471656531480588.png
+2021-05-21T13:04:42,924 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot12207264853646123061.png
+2021-05-21T13:04:43,338 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot8315357679254766824.png
+2021-05-21T13:04:49,463 [main] INFO  (CartAppendStep.java:24) - Active url CartAppendStep class
+2021-05-21T13:04:52,248 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot2127602811563953266.png
+2021-05-21T13:04:52,695 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot16013483066972837193.png
+2021-05-21T13:04:58,371 [main] INFO  (CartAppendStep.java:24) - Active url CartAppendStep class
+2021-05-21T13:05:00,739 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot16237269169731815772.png
+2021-05-21T13:05:01,165 [main] INFO  (TakeScreenShotBuyItems.java:46) - ScreenShot taken from Cart Append runnerC:\Users\electro\AppData\Local\Temp\screenshot18318102803520763791.png
+2021-05-21T13:05:02,136 [main] INFO  (CartAppendStep.java:79) - browser closed, driver removed CartAppend class
+2021-05-21T13:05:06,074 [main] INFO  (BuyItemsStep.java:28) - Active url CartAppendStep class
+2021-05-21T13:05:09,050 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot12962599712224215587.png
+2021-05-21T13:05:10,077 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot12344587465532023259.png
+2021-05-21T13:05:10,323 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot15573734553303471223.png
+2021-05-21T13:05:10,630 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot3111514428064328553.png
+2021-05-21T13:05:12,307 [main] INFO  (BuyItemsStep.java:59) - browser closed, driver removed BuyItems class
+2021-05-21T13:05:16,142 [main] INFO  (BuyItemsStep.java:28) - Active url CartAppendStep class
+2021-05-21T13:05:18,916 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot14139842587550751916.png
+2021-05-21T13:05:20,058 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot8615024362170442468.png
+2021-05-21T13:05:31,513 [main] INFO  (BuyItemsStep.java:85) - browser closed, driver removed BuyItems class,The result is not what was expected 
+2021-05-21T13:05:35,760 [main] INFO  (BuyItemsStep.java:28) - Active url CartAppendStep class
+2021-05-21T13:05:38,286 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot10425990352105118443.png
+2021-05-21T13:05:39,390 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot191317503499800615.png
+2021-05-21T13:05:39,646 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot5278318330165159759.png
+2021-05-21T13:05:40,100 [main] INFO  (TakeScreenShotBuyItems.java:35) - ScreenShot taken from Buy runnerC:\Users\electro\AppData\Local\Temp\screenshot561826274316955197.png
+2021-05-21T13:05:41,296 [main] INFO  (BuyItemsStep.java:107) - browser closed, driver removed BuyItems class
+2021-05-21T13:05:48,421 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:05:49,038 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot14851090481893337416.png
+2021-05-21T13:05:49,177 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot11110561652403828172.png
+2021-05-21T13:05:50,606 [main] INFO  (LoginSuccessStepDefinitions.java:42) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:05:55,444 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:05:56,063 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot3044322336285499627.png
+2021-05-21T13:05:56,200 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot5350904459499056443.png
+2021-05-21T13:05:57,605 [main] INFO  (LoginSuccessStepDefinitions.java:60) - browser closed, driver removed LoginSuccess class
+2021-05-21T13:06:03,672 [main] INFO  (LoginSuccessStepDefinitions.java:24) - Active url LoginSuccess class
+2021-05-21T13:06:04,639 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot2766983531290763799.png
+2021-05-21T13:06:05,244 [main] INFO  (TakeScreenshot.java:33) - ScreenShot taken Form Login runnerC:\Users\electro\AppData\Local\Temp\screenshot12303341480383630476.png
+2021-05-21T13:06:06,276 [main] INFO  (LoginSuccessStepDefinitions.java:78) - browser closed, driver removed LoginSuccess class

@@ -7,6 +7,7 @@ import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
+import screenshot.TakeScreenshot;
 
 public class LoginSuccessStepDefinitions {
 
@@ -25,42 +26,54 @@ public class LoginSuccessStepDefinitions {
 
     @When("I enter my username and password blocked")
     public void i_enter_my_username_and_password_blocked() {
+        var takeScreenshot = new TakeScreenshot(driver);
         var loginController = new LoginController(driver);
         loginController.loginWithUserBlocked();
+        takeScreenshot.takeScreenshot();
     }
 
     @Then("I should see an alert abducting that I cannot log in successfully")
     public void i_should_see_an_alert_abducting_that_i_cannot_log_in_successfully() {
         var loginController = new LoginController(driver);
+        var takeScreenshot = new TakeScreenshot(driver);
         loginController.assertAlerts("Epic sadface: Sorry, this user has been locked out.");
+        takeScreenshot.takeScreenshot();
         manager.teardown();
         LOGGER.info("browser closed, driver removed LoginSuccess class");
     }
 
     @When("I enter invalid username and password")
     public void i_enter_invalid_username_and_password() {
+        var takeScreenshot = new TakeScreenshot(driver);
         var loginController = new LoginController(driver);
         loginController.loginFailInvalidUSer();
+        takeScreenshot.takeScreenshot();
     }
 
     @Then("I should see an alert abducting that there is an error")
     public void i_should_see_an_alert_abducting_that_there_is_an_error() {
+        var takeScreenshot = new TakeScreenshot(driver);
         var loginController = new LoginController(driver);
         loginController.assertAlerts("Epic sadface: Username and password do not match any user in this service");
+        takeScreenshot.takeScreenshot();
         manager.teardown();
         LOGGER.info("browser closed, driver removed LoginSuccess class");
     }
 
     @When("I enter my username and password correctly and validly")
     public void i_enter_my_username_and_password_correctly_and_validly() {
+        var takeScreenshot = new TakeScreenshot(driver);
         var loginController = new LoginController(driver);
         loginController.loginSuccessful();
+        takeScreenshot.takeScreenshot();
     }
 
     @Then("should be on the products page and I can log out")
     public void should_be_on_the_products_page_and_i_can_log_out() {
         var loginController = new LoginController(driver);
+        var takeScreenshot = new TakeScreenshot(driver);
         loginController.logOut();
+        takeScreenshot.takeScreenshot();
         manager.teardown();
         LOGGER.info("browser closed, driver removed LoginSuccess class");
     }

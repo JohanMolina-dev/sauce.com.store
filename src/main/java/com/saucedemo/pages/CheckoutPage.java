@@ -8,7 +8,6 @@ import org.openqa.selenium.support.PageFactory;
 import java.util.concurrent.TimeUnit;
 
 public class CheckoutPage {
-    private WebDriver driver;
     @FindBy (css = "div#shopping_cart_container > a")
     WebElement cartShopping;
     @FindBy (id = "checkout")
@@ -31,7 +30,6 @@ public class CheckoutPage {
     WebElement alertZipCode;
 
     public CheckoutPage(WebDriver driver) {
-        this.driver = driver;
         PageFactory.initElements(driver,this);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
