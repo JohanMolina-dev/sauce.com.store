@@ -19,15 +19,3 @@ k
 0src/main/java/com/saucedemo/pages/LoginPage.java,b\6\b6efe2d66de650b7c85f6a7f0c0b33d93fb7115b
 _
 /src/main/java/com/saucedemo/pages/HomePage.java,f\e\fe11dde69a6d216136671069579879a2d64d5a28
-Y
-)src/test/java/runners/BuyItemsRunner.java,8\c\8c360901d7002978f14b67d52dd1e2ecfb7dffbd
-q
-Asrc/main/java/com/saucedemo/controller/ProductPageController.java,c\a\ca0696fa175ec14358f68fc1078a936f67866842
-n
->src/main/java/com/saucedemo/controller/CheckoutController.java,c\7\c7d5517b936325e079e97d7427e635016d3f802c
-c
-3src/main/java/com/saucedemo/pages/CheckoutPage.java,f\0\f0ee8f2f3f8eb8784bfce67d55521489bff0c98c
-n
->src/main/java/com/saucedemo/step_definitions/BuyItemsStep.java,9\f\9f400abe140498659201e405637a040394f57917
-C
-logs/automation.log,c\a\ca3e0c7b6180246ea05187332ba5d8eb667e8dab
