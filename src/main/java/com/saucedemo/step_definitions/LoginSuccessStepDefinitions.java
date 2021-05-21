@@ -17,7 +17,7 @@ public class LoginSuccessStepDefinitions {
 
     @Given(": I'm on the page that allows me to start the session")
     public void i_m_on_the_page_that_allows_me_to_start_the_session() {
-        driver = manager.selectBrowser("", "0.29.0");
+        driver = manager.selectBrowser("firefox", "0.29.0");
         driver.manage().window().maximize();
         var urlBase = "https://www.saucedemo.com/";
         driver.get(urlBase);
